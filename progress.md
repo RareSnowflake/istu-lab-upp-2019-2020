@@ -12,3 +12,4 @@
 Афанасьева_EW               | ✔       |         |         |
 Борисов_ПоздеевАА_allsmart  | ✔       |         |         |  
 Kharitonov_Dubovcev         | ✔       |         |         |
+Vakhrushev_Maksimenkov      | ✔       | ✔       | ✔       | 👍
